@@ -26,7 +26,7 @@ export default function Home() {
            <td>2025/2/25</td>
          </tr>
          <tr>
-           <td>Afnan Sukri Anwar Abdullah</td>
+           <td>Afnan Syukri Anwar Abdullah</td>
            <td>2025/2/28</td>
          </tr>
        </table>      
