@@ -19,6 +19,7 @@ export default function Home() {
        <table border="1">
          <tr>
            <th>名前</th>
+           <th>yanisa</th>
            <th>日時</th>
          </tr>
          <tr>
